@@ -35,6 +35,7 @@ div {
 #content {
     background-color:#697778;
     margin-left:16%;
+    height:505.016;
 }
 #footer{
     background-color:#976548;
@@ -57,9 +58,12 @@ div {
 }
 #salebox p{
     width:100px;
-    display:inline;
+    display: inline;
     background-color:#976548;
     padding:3px;
     border-radius:10px;
+}
+#footer li{
+    text-decoration:none;
 }
 
